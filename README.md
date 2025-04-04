@@ -1,7 +1,7 @@
-## SuperShop - Single Vendor Ecommerce Application
+## Admin Control Panel
 
 
-### FrontEnd Application Folder Structure
+### BackEnd Application Folder Structure
 
 ```
 ├───app
@@ -9,36 +9,17 @@
 │   │   └───Controllers
 │   └───Models
 ├───config
+├───images
 ├───public
-│   ├───assets
-│   │   ├───css
-│   │   ├───fonts
-│   │   ├───images
-│   │   └───js
-│   └───uploads
-│       ├───admins
-│       ├───banners
-│       ├───products
-│       └───slides
+│   ├───css
+│   ├───fonts
+│   ├───js
+│   ├───summernote
+│   └───tagplug
 └───resource
-    ├───files
+    ├───backup
+    ├───schema
     └───view
         ├───content
         └───include
 ```
-
-
-### Features:
-
-- Home Page
-- Category
-- Category Lists
-- Product
-- Serach
-- Cart
-- Payments
-- Order
-- Invoice Generate
-- User Registration
-- User Login
-- User Dashboard

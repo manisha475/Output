@@ -6,5 +6,5 @@ include("app/Http/Controllers/View.php");
 $view = new View;
 
 ## [M]ethod Execute | VIEW CLASS
-$view->loadContent("content", "login");
+$view->loadContent("content", "lock-screen");
 ?>

@@ -8,6 +8,6 @@ $view = new View;
 ## [M]ethod Execute | VIEW CLASS
 $view->loadContent("include", "session");
 $view->loadContent("include", "top");
-$view->loadContent("content", "dashboard");
+$view->loadContent("content", "list-admin");
 $view->loadContent("include", "tail");
 ?>
